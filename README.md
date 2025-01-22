@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aksh2908/LeetCode/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
