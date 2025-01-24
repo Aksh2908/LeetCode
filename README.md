@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aksh2908/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aksh2908/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Aksh2908/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aksh2908/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aksh2908/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
