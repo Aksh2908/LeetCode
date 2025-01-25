@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Aksh2908/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Aksh2908/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
 | ------- |
