@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Aksh2908/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Aksh2908/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Aksh2908/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Divide and Conquer
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Aksh2908/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Aksh2908/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Two Pointers
