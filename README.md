@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aksh2908/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
@@ -62,15 +63,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -87,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -94,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
@@ -125,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
