@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Aksh2908/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Aksh2908/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aksh2908/LeetCode/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
