@@ -8,17 +8,17 @@ public:
                 break;
             }
         }
-        cout << breakIdx;
         if(breakIdx==-1){
             sort(nums.begin(),nums.end());
             return;
         }
-        int ngIdx=-1;
-        for(i=breakIdx+1;i<nums.size();i++){
-            if(nums[breakIdx]<nums[i]) ngIdx=i;
+        for(i=nums.size()-1;i>breakIdx;i--){
+            if(nums[i]>nums[breakIdx]){
+                swap(nums[breakIdx],nums[i]);
+                break;
+            }
         }
-        swap(nums[breakIdx],nums[ngIdx]);
-        sort(nums.begin()+(breakIdx+1),nums.end());
+        reverse(nums.begin()+(breakIdx+1),nums.end());
 }
 
 };
