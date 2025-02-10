@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Aksh2908/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [3447-clear-digits](https://github.com/Aksh2908/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aksh2908/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Aksh2908/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
+| [3447-clear-digits](https://github.com/Aksh2908/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aksh2908/LeetCode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3447-clear-digits](https://github.com/Aksh2908/LeetCode/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
