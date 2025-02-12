@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aksh2908/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Aksh2908/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aksh2908/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aksh2908/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aksh2908/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aksh2908/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aksh2908/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aksh2908/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aksh2908/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aksh2908/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aksh2908/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
