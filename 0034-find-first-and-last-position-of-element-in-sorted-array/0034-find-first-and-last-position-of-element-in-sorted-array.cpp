@@ -31,11 +31,10 @@ public:
         }
         return second;
     }
-    
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> v;
-        v.push_back(first(nums,target));
-        v.push_back(second(nums,target));
-        return v;
+        vector<int> res;
+        res.push_back(first(nums,target));
+        res.push_back(second(nums,target));
+        return res;
     }
 };
