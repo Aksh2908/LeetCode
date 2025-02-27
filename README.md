@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aksh2908/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Aksh2908/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0907-koko-eating-bananas](https://github.com/Aksh2908/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aksh2908/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aksh2908/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Aksh2908/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Aksh2908/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Aksh2908/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aksh2908/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
