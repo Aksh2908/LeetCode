@@ -14,7 +14,7 @@ public:
             for(j=0;j<v;j++){
                 if(isConnected[i][j] && i!=j){
                     adj[i].push_back(j);
-                    adj[j].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
