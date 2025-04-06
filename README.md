@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Aksh2908/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aksh2908/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aksh2908/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Aksh2908/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aksh2908/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
