@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aksh2908/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aksh2908/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Aksh2908/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aksh2908/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aksh2908/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aksh2908/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aksh2908/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aksh2908/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aksh2908/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aksh2908/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aksh2908/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aksh2908/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aksh2908/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aksh2908/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
