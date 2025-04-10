@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Aksh2908/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0838-design-linked-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Aksh2908/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Aksh2908/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aksh2908/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aksh2908/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Aksh2908/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aksh2908/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aksh2908/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
