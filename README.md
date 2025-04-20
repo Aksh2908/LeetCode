@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aksh2908/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aksh2908/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2737-row-with-maximum-ones](https://github.com/Aksh2908/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aksh2908/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Aksh2908/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Aksh2908/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Aksh2908/LeetCode/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/Aksh2908/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2737-row-with-maximum-ones](https://github.com/Aksh2908/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aksh2908/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
