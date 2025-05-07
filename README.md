@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aksh2908/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aksh2908/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aksh2908/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aksh2908/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2737-row-with-maximum-ones](https://github.com/Aksh2908/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aksh2908/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aksh2908/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aksh2908/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aksh2908/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aksh2908/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aksh2908/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aksh2908/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Aksh2908/LeetCode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aksh2908/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
 | ------- |
