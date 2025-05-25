@@ -1,15 +1,17 @@
 class Solution {
 private:
-    int solve(vector<int>& nums, int n, vector<int>& dp){
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
-        if(dp[n]!=-1) return dp[n];
+    int solve(vector<int>& nums, int n){
+        int prev1=nums[0];
+        int prev=max(nums[0],nums[1]);
+        int curr=0;
         for(int i=2;i<=n;i++){
-            int pick=nums[i]+dp[i-2];
-            int notPick=dp[i-1];
-            dp[i]=max(pick,notPick);
+            int pick=nums[i]+prev1;
+            int notPick=prev;
+            curr=max(pick,notPick);
+            prev1=prev;
+            prev=curr;
         }
-        return dp[n];
+        return prev;
     }
 public:
     int deleteAndEarn(vector<int>& nums) {
@@ -20,6 +22,6 @@ public:
             points[it]+=it;
         }
         vector<int> dp(maxi+1,-1);
-        return solve(points,maxi,dp);
+        return solve(points,maxi);
     }
 };
