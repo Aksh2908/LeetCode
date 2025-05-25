@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/Aksh2908/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Aksh2908/LeetCode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aksh2908/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aksh2908/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Aksh2908/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
+| [0740-delete-and-earn](https://github.com/Aksh2908/LeetCode/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Aksh2908/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aksh2908/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aksh2908/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aksh2908/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0740-delete-and-earn](https://github.com/Aksh2908/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aksh2908/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Matrix
 |  |
