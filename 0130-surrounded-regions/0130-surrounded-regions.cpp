@@ -1,12 +1,13 @@
 class Solution {
 private:
-    void dfs(vector<vector<char>>& board, vector<vector<int>>& visited, int i, int j,vector<int>& row, vector<int>& col, int m, int n){
+    void dfs(vector<vector<char>>& board, vector<vector<int>>& visited, int i, int j, int m, int n, vector<int>& row, vector<int>& col){
         visited[i][j]=1;
         for(int k=0;k<4;k++){
             int ni=i+row[k];
             int nj=j+col[k];
-            if(ni>=0 && ni<m && nj>=0 && nj<n && board[ni][nj]=='O' && !visited[ni][nj]){
-                dfs(board,visited,ni,nj,row,col,m,n);
+
+            if(ni>=0 && ni<=m-1 && nj>=0 && nj<=n-1 && !visited[ni][nj] && board[ni][nj]=='O'){
+                dfs(board,visited,ni,nj,m,n,row,col);
             }
         }
     }
@@ -21,8 +22,10 @@ public:
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if((i==0 || i==m-1)  ||  (j==0 || j==n-1)){
-                    if(board[i][j]=='O' && !visited[i][j]) dfs(board,visited,i,j,row,col,m,n);
+                if(i==0 || i==m-1 || j==0 || j==n-1){
+                    if(board[i][j]=='O'){
+                        dfs(board,visited,i,j,m,n,row,col);
+                    }
                 }
             }
         }
