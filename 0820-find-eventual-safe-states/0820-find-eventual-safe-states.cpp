@@ -1,34 +1,43 @@
 class Solution {
-private:
-    bool dfs(vector<vector<int>>& graph, vector<int>& visited,vector<int>& path, vector<int>& safe, int src){
-        visited[src]=1;
-        path[src]=1;
-
-        for(auto it:graph[src]){
-            if(!visited[it]){
-                if(dfs(graph,visited,path,safe,it)) return true;
-            }
-            else if(path[it]){
-                return true;
-            }
-        }
-        path[src]=0;
-        safe.push_back(src);
-        return false;
-    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int v=graph.size();
 
-        vector<int>visited(v,0);
-        vector<int>path(v,0);
-        vector<int> safe;
+        vector<vector<int>> revGraph(v,vector<int>());
+        vector<int> indeg(v,0);
+        queue<int> q;
+        vector<int> visited(v,0);
+        vector<int> ans;
+        
         for(int i=0;i<v;i++){
-            if(!visited[i]){
-                if(dfs(graph,visited,path,safe,i)) continue;
+            for(auto it:graph[i]){
+                indeg[i]++;
+                revGraph[it].push_back(i);
             }
         }
-        sort(safe.begin(),safe.end());
-        return safe;
+        
+        for(int i=0;i<v;i++){
+            if(!indeg[i]){
+                q.push(i);
+                visited[i]=1;
+            }
+        }
+        
+        while(!q.empty()){
+            int node=q.front();
+            ans.push_back(node);
+            q.pop();
+            
+            for(auto it:revGraph[node]){
+                indeg[it]--;
+                if(!indeg[it]){
+                    q.push(it);
+                    visited[it]=1;
+                }
+            }
+        }
+        sort(ans.begin(),ans.end());
+
+        return ans;
     }
 };
