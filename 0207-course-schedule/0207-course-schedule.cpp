@@ -4,7 +4,7 @@ public:
         vector<int> indeg(numCourses,0);
 
         for(auto it:prerequisites){
-            indeg[it[1]]++;
+            indeg[it[0]]++;
         }
 
         queue<int> q;
@@ -22,11 +22,11 @@ public:
             q.pop();
 
             for(auto it:prerequisites){
-                if(it[0]==node){
-                    indeg[it[1]]--;
-                    if(!indeg[it[1]]){
-                        q.push(it[1]);
-                        visited[it[1]]=1;
+                if(it[1]==node){
+                    indeg[it[0]]--;
+                    if(!indeg[it[0]]){
+                        q.push(it[0]);
+                        visited[it[0]]=1;
                     }
                 }
             }
