@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aksh2908/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Aksh2908/LeetCode/tree/master/0127-word-ladder) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aksh2908/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aksh2908/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aksh2908/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Aksh2908/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Aksh2908/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aksh2908/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aksh2908/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aksh2908/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aksh2908/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aksh2908/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Aksh2908/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Aksh2908/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Aksh2908/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aksh2908/LeetCode/tree/master/0210-course-schedule-ii) |
