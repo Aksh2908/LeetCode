@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aksh2908/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aksh2908/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aksh2908/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aksh2908/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Aksh2908/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aksh2908/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aksh2908/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Aksh2908/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Aksh2908/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Aksh2908/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aksh2908/LeetCode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aksh2908/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Array
 |  |
