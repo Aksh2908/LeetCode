@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aksh2908/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aksh2908/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Aksh2908/LeetCode/tree/master/1448-maximum-69-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Aksh2908/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aksh2908/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aksh2908/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aksh2908/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Aksh2908/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Aksh2908/LeetCode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/Aksh2908/LeetCode/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aksh2908/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
