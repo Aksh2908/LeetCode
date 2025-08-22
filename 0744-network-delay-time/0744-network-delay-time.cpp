@@ -6,21 +6,20 @@ public:
             adj[it[0]].push_back({it[1],it[2]});
         }
         vector<int> dist(n+1,INT_MAX);
-        queue<pair<int,int>> q;
-
-        q.push({0,k});
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        pq.push({0,k});
         dist[k]=0;
 
-        while(!q.empty()){
-            int cost=q.front().first;
-            int node=q.front().second;
+        while(!pq.empty()){
+            int cost=pq.top().first;
+            int node=pq.top().second;
 
-            q.pop();
+            pq.pop();
 
             for(auto it:adj[node]){
                 if(cost+it.second<dist[it.first]){
                     dist[it.first]=cost+it.second;
-                    q.push({cost+it.second,it.first});
+                    pq.push({cost+it.second,it.first});
                 }
             }
         }
