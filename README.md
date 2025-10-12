@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aksh2908/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aksh2908/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Aksh2908/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aksh2908/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Aksh2908/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aksh2908/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Aksh2908/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Aksh2908/LeetCode/tree/master/0740-delete-and-earn) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Aksh2908/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aksh2908/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aksh2908/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Aksh2908/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Aksh2908/LeetCode/tree/master/0575-distribute-candies) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Aksh2908/LeetCode/tree/master/0740-delete-and-earn) |
 | [0749-shortest-completing-word](https://github.com/Aksh2908/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aksh2908/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aksh2908/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Aksh2908/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Aksh2908/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Aksh2908/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Aksh2908/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aksh2908/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aksh2908/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Aksh2908/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aksh2908/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aksh2908/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Aksh2908/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Aksh2908/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -482,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aksh2908/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Aksh2908/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aksh2908/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Aksh2908/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Aksh2908/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Aksh2908/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Aksh2908/LeetCode/tree/master/0801-is-graph-bipartite) |
