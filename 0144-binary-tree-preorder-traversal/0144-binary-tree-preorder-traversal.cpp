@@ -10,16 +10,17 @@
  * };
  */
 class Solution {
-public:
-    void preorder(vector<int>& ans, TreeNode *root){
+private:
+    void solve(TreeNode* root, vector<int>& ans){
         if(!root) return;
         ans.push_back(root->val);
-        preorder(ans,root->left);
-        preorder(ans,root->right);
+        solve(root->left,ans);
+        solve(root->right,ans);
     }
+public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        preorder(ans,root);
+        solve(root,ans);
         return ans;
     }
 };
