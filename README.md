@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aksh2908/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Aksh2908/LeetCode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Aksh2908/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aksh2908/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aksh2908/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aksh2908/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aksh2908/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aksh2908/LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aksh2908/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aksh2908/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aksh2908/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aksh2908/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aksh2908/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Aksh2908/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -559,4 +563,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Aksh2908/LeetCode/tree/master/1925-count-square-sum-triples) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aksh2908/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
