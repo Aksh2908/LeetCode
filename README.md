@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Aksh2908/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aksh2908/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aksh2908/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3447-clear-digits](https://github.com/Aksh2908/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aksh2908/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aksh2908/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aksh2908/LeetCode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aksh2908/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aksh2908/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Aksh2908/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Aksh2908/LeetCode/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aksh2908/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
