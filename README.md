@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aksh2908/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Aksh2908/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aksh2908/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aksh2908/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aksh2908/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aksh2908/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aksh2908/LeetCode/tree/master/0055-jump-game) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aksh2908/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Aksh2908/LeetCode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aksh2908/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -596,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aksh2908/LeetCode/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aksh2908/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
